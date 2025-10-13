@@ -11,10 +11,9 @@ function toggleMode() {
   // substituir a imagem
   // se tiver light mode adicionar a imagem
   //se tiver sem light mode manter a imagem normal
-  modeLight()
-    ? image.setAttribute("src", "./assets/mobile/avatar.png")
-    : /*Está redundante pois retirei uma imagem*/
-      image.setAttribute("src", "./assets/mobile/avatar-light.png")
+  modeLight() ? image.setAttribute("src", "./assets/mobile/avatar.png") : image.setAttribute("src", "./assets/mobile/avatar-light.png")
+
+   
 
   modeLight()
     ? image.setAttribute("alt","Foto de avatar sorrindo usando óculos e camisa preta barba e fundo restaurante na praia")
