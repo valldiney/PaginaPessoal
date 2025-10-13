@@ -17,6 +17,6 @@ function toggleMode() {
       image.setAttribute("src", "./assets/mobile/avatar-light.png")
 
   modeLight()
-    ? image.setAttribute("alt","Foto de Valdiney sorrindo usando óculos e camisa preta barba e fundo restaurante na praia")
-    : image.setAttribute("alt","Selfie de Valdiney neutro usando óculos e camisa branca com o nascer do sol no fundo")
+    ? image.setAttribute("alt","Foto de avatar sorrindo usando óculos e camisa preta barba e fundo restaurante na praia")
+    : image.setAttribute("alt","Selfie de avatar neutro usando óculos e camisa branca com o nascer do sol no fundo")
 }
