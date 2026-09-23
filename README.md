@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Pessoal </h1>
+<h1 align="center"> Projeto Página Pessoal </h1>
 
 <p align="center">
 Projeto criado com intuito de aprendizagem, onde mostra algumas das minhas redes sociais.
@@ -40,5 +40,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessár
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
-___
